@@ -1,1 +1,1 @@
-commit ak1.txt
+git pull
